@@ -35,17 +35,25 @@ This project provides a dedicated Power BI executive dashboard designed to analy
 
 ## 📸 Screenshots
 
-![Copy of 20260111 0215 Image Generation simple compose 01kemtenhyfwz8hz9x8cmadyqx (1) Photoroom](https://raw.githubusercontent.com/harshmeena9977-ops/Samsung-Supply-Chain-Analytics-Dashboard/main/Images/Copy of 20260111_0215_Image Generation_simple_compose_01kemtenhyfwz8hz9x8cmadyqx (1)-Photoroom.png)
+## 📸 Screenshots
 
-![Copy of 20260111 0215 Image Generation simple compose 01kemtenhyfwz8hz9x8cmadyqx (2) Photoroom](https://raw.githubusercontent.com/harshmeena9977-ops/Samsung-Supply-Chain-Analytics-Dashboard/main/Images/Copy of 20260111_0215_Image Generation_simple_compose_01kemtenhyfwz8hz9x8cmadyqx (2)-Photoroom.png)
+### 🏠 Home Dashboard
+![Home](./Dashboard%20Images/Home.png)
 
-![Copy of 20260111 0215 Image Generation simple compose 01kemtenhyfwz8hz9x8cmadyqx (3) Photoroom](https://raw.githubusercontent.com/harshmeena9977-ops/Samsung-Supply-Chain-Analytics-Dashboard/main/Images/Copy of 20260111_0215_Image Generation_simple_compose_01kemtenhyfwz8hz9x8cmadyqx (3)-Photoroom.png)
+### 📊 Overview Dashboard
+![Overview](./Dashboard%20Images/Overview.png)
 
-![Copy of 20260111 0215 Image Generation simple compose 01kemtenhyfwz8hz9x8cmadyqx (4) Photoroom](https://raw.githubusercontent.com/harshmeena9977-ops/Samsung-Supply-Chain-Analytics-Dashboard/main/Images/Copy of 20260111_0215_Image Generation_simple_compose_01kemtenhyfwz8hz9x8cmadyqx (4)-Photoroom.png)
+### 🤝 Supplier Dashboard
+![Supplier](./Dashboard%20Images/Supplier.png)
 
-![Copy of 20260111 0351 Image Generation simple compose 01kemzztqhfxdahtjb09s4mvpm (1) (1) Photoroom](https://raw.githubusercontent.com/harshmeena9977-ops/Samsung-Supply-Chain-Analytics-Dashboard/main/Images/Copy of 20260111_0351_Image Generation_simple_compose_01kemzztqhfxdahtjb09s4mvpm (1) (1)-Photoroom.png)
+### 📦 Inventory & Production Dashboard
+![Inventory](./Dashboard%20Images/Inventory%20&%20production.png)
 
-![close (19)](https://raw.githubusercontent.com/harshmeena9977-ops/Samsung-Supply-Chain-Analytics-Dashboard/main/Images/close (19).png)
+### 🚚 Shipment Dashboard
+![Shipment](./Dashboard%20Images/Shipment.png)
+
+### 👥 Customer Dashboard
+![Customer](./Dashboard%20Images/Customer.png)
 
 ## ⚡ Quick Start
 
